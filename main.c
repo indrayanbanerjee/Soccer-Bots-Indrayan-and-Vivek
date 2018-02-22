@@ -1,2 +1,4 @@
-#CODE
-HI
+task main()
+{
+  
+}
