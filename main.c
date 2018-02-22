@@ -1,4 +1,4 @@
 task main()
 {
-  
+  turnLEDOn(green);
 }
